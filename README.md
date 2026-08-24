@@ -16,3 +16,5 @@ Projeto oficial do jogo **Museu Empire** para Roblox.
 ## Deploy
 O workflow usa o secret do GitHub Actions `MUSEU_EMPIRE_API_KEY`.
 Commits com `[DEPLOY_ROBLOX]` disparam a publicação para o Place oficial.
+
+Status: primeiro deploy oficial pelo repositório `MUSEU_EMPIRE` disparado.
